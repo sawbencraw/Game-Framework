@@ -22,7 +22,7 @@ The tools used to develop this software include:
 
 * [Pygame Documentation](https://www.pygame.org/docs/)
 * [Python Official Documentation](https://docs.python.org/3/)
-* [Stack Overflow](https://stackoverflow.com/) - For troubleshooting and community support
+* [Stack Overflow](https://stackoverflow.com/)
 
 # Future Work
 
