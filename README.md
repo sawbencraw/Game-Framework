@@ -26,7 +26,7 @@ The tools used to develop this software include:
 
 # Future Work
 
-* Implement a scoring system that displays the highest score.
+* Implemention of a scoring system that displays the highest score.
 * Add different levels with increasing difficulty.
 * Include sound effects and background music to enhance the gaming experience.
 * Introduce obstacles within the game to increase complexity.
